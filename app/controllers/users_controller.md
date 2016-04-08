@@ -1,6 +1,7 @@
 # UsersController
 
 * login
+  - if fail, redirect to recover
 * logout
 * create_account
 * recover
