@@ -9,3 +9,5 @@ Password: `____`
 [login](#)
 
 [create account](#)
+
+[recover your password](#)
