@@ -1,5 +1,7 @@
 # Index
 
+Hey *welcome* you!
+
 E-mail: `____`
 
 Password: `____`
@@ -7,3 +9,5 @@ Password: `____`
 [login](#)
 
 [create account](#)
+
+[recover your password](#)
