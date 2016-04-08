@@ -2,3 +2,4 @@
 
 * create(email, password)
 * check_password(email, password)
+* all

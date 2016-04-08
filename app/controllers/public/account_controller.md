@@ -1,4 +1,4 @@
-# UsersController
+# AccountsController
 
 * login
   - if fail, redirect to recover
