@@ -5,3 +5,4 @@
 * create_account
 * recover
   - send an email
+* set_new_password(token)
