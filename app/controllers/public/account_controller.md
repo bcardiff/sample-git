@@ -1,4 +1,4 @@
-# UsersController
+# AccountsController
 
 * login
 * logout
