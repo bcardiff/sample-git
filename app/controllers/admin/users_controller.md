@@ -1,3 +1,3 @@
-AdminUsersController
+UsersController
 
 * listing users
